@@ -12,6 +12,10 @@
             {
                 return "Bonjour le monde";
             }
+            else if (lang.Equals("tr"))
+            {
+                return "Merhaba Millet!";
+            }
             else
             {
                 return "Hello World";
